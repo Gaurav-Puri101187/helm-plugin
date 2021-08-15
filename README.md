@@ -1,2 +1,4 @@
 # helm-plugin
-Dotnet Core plugin for helm
+Pass the values file inside a folder to helm.
+This plugin is written in c# 
+
