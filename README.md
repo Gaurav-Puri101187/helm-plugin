@@ -9,4 +9,4 @@ This plugin is written in c#
 
 **Usage**
 
-helm valuesFromFolder install --folder <folderpath inside charts directory> <chartpath> <releasename> 
+helm valuesFromFolder install --folder "folderpath inside charts directory" "chartpath" "releasename"
