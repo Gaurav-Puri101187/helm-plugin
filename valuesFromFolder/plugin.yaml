@@ -1,4 +1,4 @@
-name: "valuesFromFolderPlugin"
+name: "valuesFromFolder"
 version: "0.1.0"
 usage: "Read multiple files from the folder and add them with -f flag in the command"
 description: "Read multiple files from the folder and add them with -f flag in the command"
