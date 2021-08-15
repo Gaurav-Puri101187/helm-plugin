@@ -1,0 +1,6 @@
+name: "myplugin"
+version: "0.1.0"
+usage: "simple test"
+description: "test plugin"
+ignoreFlags: false
+command: "dotnet run --project $HELM_PLUGIN_DIR/TestHelmPlugin/TestHelmPlugin.csproj"
