@@ -1,6 +1,6 @@
-name: "myplugin"
+name: "valuesFromFolderPlugin"
 version: "0.1.0"
-usage: "simple test"
-description: "test plugin"
+usage: "Read multiple files from the folder and add them with -f flag in the command"
+description: "Read multiple files from the folder and add them with -f flag in the command"
 ignoreFlags: false
-command: "dotnet run --project $HELM_PLUGIN_DIR/TestHelmPlugin/TestHelmPlugin.csproj"
+command: "dotnet run --project $HELM_PLUGIN_DIR/ValuesFromFolderPlugin/ValuesFromFolderPlugin.csproj"
